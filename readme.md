@@ -12,7 +12,7 @@ including booking,modifying ,deleting of tickets .
 
 1- clone this repo
 ``
-jjj
+git clone https://github.com/rinshadkv/cloudbees-assessment.git
 ``
 
 2- Navigate to root project
